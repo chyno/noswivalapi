@@ -1,0 +1,16 @@
+{
+  "name": "swivalapi",
+  "version": "1.0.0",
+  "description": "REST api forSWIVAl",
+  "main": "index.js",
+  "scripts": {
+    "api": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Chynoweth",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}

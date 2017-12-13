@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "id": "2",
+        "name": "Lance",
+        "level": 3
+      }
+    ]
+    ,
+    "statuses" : [
+      {
+        "id": "2",
+        "status": "printed",
+        "userid": 3
+      },
+      {
+        "id": "2",
+        "name": "rejected",
+        "userid": 3
+      }
+    ]
+}
